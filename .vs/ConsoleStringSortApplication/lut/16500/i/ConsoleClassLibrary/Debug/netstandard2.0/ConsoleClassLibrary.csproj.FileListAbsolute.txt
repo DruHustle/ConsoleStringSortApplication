@@ -1,0 +1,8 @@
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.deps.json
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.csprojAssemblyReference.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.AssemblyInfo.cs
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.csproj.CopyComplete
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary\Debug\netstandard2.0\ConsoleClassLibrary.dll

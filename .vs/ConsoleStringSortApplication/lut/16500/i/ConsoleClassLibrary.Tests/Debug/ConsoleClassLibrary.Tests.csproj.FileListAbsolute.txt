@@ -1,0 +1,10 @@
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\ConsoleClassLibrary.Tests.dll.config
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleClassLibrary.Tests\bin\Debug\ConsoleClassLibrary.Tests.dll
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary.Tests\Debug\ConsoleClassLibrary.Tests.csprojAssemblyReference.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary.Tests\Debug\ConsoleClassLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary.Tests\Debug\ConsoleClassLibrary.Tests.csproj.CopyComplete
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleClassLibrary.Tests\Debug\ConsoleClassLibrary.Tests.dll

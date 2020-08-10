@@ -1,0 +1,5 @@
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleStringSortApplication\bin\Debug\ConsoleUI.exe.config
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\b\ConsoleStringSortApplication\bin\Debug\ConsoleUI.exe
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleUI\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleUI\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Andrew Gotora\source\repos\ConsoleStringSortApplication\.vs\ConsoleStringSortApplication\lut\0\i\ConsoleUI\Debug\ConsoleUI.exe

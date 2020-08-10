@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjsw1IbtqnSHiqW99u4s6FdBIIaGiVp3evL0gAkr2gLL8/t71NxNsNkiM5G7ZjDvZdP14AWcTPxzTcFa1wYiwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew Gotora\\source\\repos\\ConsoleStringSortApplication\\ConsoleClassLibrary\\ConsoleClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew Gotora\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
