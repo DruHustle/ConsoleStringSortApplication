@@ -37,10 +37,6 @@ namespace ConsoleUI
         }
         public void Run()
         {
-            ConsoleKeyInfo keyboardInput;
-            //Console.TreatControlCAsInput = true; 
-            //string run = "Enter";
-
             do
             {
                 bool isValid;
@@ -65,13 +61,9 @@ namespace ConsoleUI
 
                 _printOutput.Message("Output:");
                 _printOutput.Message(sortedString.Trim());
-                _printOutput.Message("\nPress \"Esc\" to exit or any other key to proceed...");
-
-                keyboardInput = Console.ReadKey();
-
-            } while (keyboardInput.Key != ConsoleKey.Escape);
-
-
+                _printOutput.Message("\nPress \"Enter\" to exit or any other key to proceed...");
+                
+            } while (Console.ReadKey().Key != ConsoleKey.Enter);
         }
     }
 }
